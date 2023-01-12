@@ -165,21 +165,7 @@ function generatePassword() {
   }
   //Testing to see if the function works and will output the new second array 
   generatePassword();
-  console.log(newPasswordArray);
-
-  //Last issue I am facing:
-  //it works but say if i specify the value as 10, it will print 11 characters:
-  //Test values shows that the array length increases by 4 each multiple of 4. so at 12 16 20 24 the array length will increase by 4
-  //... the numbers inside these will produce an array length to the nearest multiple of 4 but rounded up so 10, 11 will produce an array length of 12
-  
-
-
-
-
-
-
-
-
+ 
 
 
 // Get references to the #generate element
