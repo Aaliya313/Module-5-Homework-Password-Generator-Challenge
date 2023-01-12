@@ -16,6 +16,8 @@ https://aaliya313.github.io/Module-5-Homework-Password-Generator-Challenge/
 
 ## Screenshot of deployed application
 
-![Screenshot 1 displaying prompt questions](assets\2023-01-12 (1).png)
-![Screenshot 2 displaying the final password being generated](assets\2023-01-12.png)
+![Screenshot 1 displaying prompt questions](screenshot1.png)
+
+
+![Screenshot 2 displaying the final password being generated](screenshot2.png)
 
